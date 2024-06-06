@@ -1,0 +1,3 @@
+C:/TI/C++/Aula/Brito/Combinacao_Linear/cmake-build-debug/CMakeFiles/Combinacao_Linear.dir
+C:/TI/C++/Aula/Brito/Combinacao_Linear/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TI/C++/Aula/Brito/Combinacao_Linear/cmake-build-debug/CMakeFiles/rebuild_cache.dir
